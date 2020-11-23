@@ -1,0 +1,9 @@
+[1108/155828.367:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Assa\AppData\Local\Temp\scoped_dir11400_1313778963\Crashpad\attachments\fe4573aa-b525-46a3-93a7-58e8833b90cb: Системе не удается найти указанный путь. (0x3)
+[1122/131533.316:ERROR:process_info.cc(359)] UncheckedAllocate
+[1122/131533.346:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Assa\AppData\Local\Temp\scoped_dir4252_719273664\Crashpad\attachments\d4a23215-98f2-4ee0-9722-e8e31e8f51f9: Системе не удается найти указанный путь. (0x3)
+[1122/131604.909:ERROR:process_info.cc(359)] UncheckedAllocate
+[1122/131604.933:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Assa\AppData\Local\Temp\scoped_dir3404_906298352\Crashpad\attachments\6a88072d-07c7-471d-bd8a-fee66c882c41: Системе не удается найти указанный путь. (0x3)
+[1122/131641.467:ERROR:process_info.cc(359)] UncheckedAllocate
+[1122/131641.495:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Assa\AppData\Local\Temp\scoped_dir536_1922480232\Crashpad\attachments\9fbd1b3a-e242-4ff9-b112-a697b7df2708: Системе не удается найти указанный путь. (0x3)
+[1122/131700.964:ERROR:process_info.cc(359)] UncheckedAllocate
+[1122/131700.984:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Assa\AppData\Local\Temp\scoped_dir6400_512260664\Crashpad\attachments\38824e5d-cfc2-4e67-8191-348c341d59d1: Системе не удается найти указанный путь. (0x3)
